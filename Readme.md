@@ -3,6 +3,5 @@
 Pasos:
 
 - Instalar Vuepress
-- cd docs/
-- `vuepress dev` en modo desarrollo
-- `vuepress build` para generar el build (.html y .js asociados)
+- `vuepress dev docs` en modo desarrollo
+- `vuepress build docs` para generar el build (.html y .js asociados). Se generan en `docs/.vuepress/dist`
