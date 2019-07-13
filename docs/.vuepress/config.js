@@ -8,7 +8,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Inicio', link: '/' },
-      { text: 'Link Externo', link: 'https://www.google.cl/' }
+      { text: 'GitHub', link: 'https://github.com/mrcoto/vuepress-skeleton-api/' }
     ],
     sidebar: [
       {
