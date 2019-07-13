@@ -16,4 +16,4 @@ Parámetros:
 
 Ejemplo de petición:
 
-<<< @/content/invitation/data/email.request.json
+<<< @/docs/content/invitation/data/email.request.json
