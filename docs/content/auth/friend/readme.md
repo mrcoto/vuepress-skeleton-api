@@ -12,7 +12,7 @@ Parámetros:
 
 Ejemplo de petición:
 
-<<< @/content/auth/data/friend.request.json
+<<< @/docs/content/auth/data/friend.request.json
 
 ## Eliminar Amigo
 

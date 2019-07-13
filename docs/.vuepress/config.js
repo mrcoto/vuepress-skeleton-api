@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/vuepress-skeleton-api/dist/',
   title: 'EMPRESA',
   description: 'Descripción',
   markdown: {

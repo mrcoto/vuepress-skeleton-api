@@ -14,7 +14,7 @@ Parámetros:
 
 Ejemplo de petición:
 
-<<< @/content/auth/data/register.request.json
+<<< @/docs/content/auth/data/register.request.json
 
 ## Login
 
@@ -29,7 +29,7 @@ Parámetros:
 
 Ejemplo de petición:
 
-<<< @/content/auth/data/login.request.json
+<<< @/docs/content/auth/data/login.request.json
 
 ## Actualizar Perfil
 
@@ -47,4 +47,4 @@ Parámetros:
 
 Ejemplo de petición:
 
-<<< @/content/auth/data/updateprofile.request.json
+<<< @/docs/content/auth/data/updateprofile.request.json
